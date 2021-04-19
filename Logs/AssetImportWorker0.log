@@ -139,3 +139,134 @@ System memory in use after: 36.3 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2290.
 Total: 3.199307 ms (FindLiveObjects: 0.218195 ms CreateObjectMapping: 0.079828 ms MarkObjects: 2.818132 ms  DeleteObjects: 0.080783 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 7646.401482 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(9a555ad292a390ae08098d5b2e66df8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(9a555ad292a390ae08098d5b2e66df8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe18eaf9862de7b4e2fb58382a866095') in 0.002681 seconds
+  Import took 0.006081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.281306 seconds.
+  path: Assets/Demo
+  artifactKey: Guid(9a555ad292a390ae08098d5b2e66df8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demo using Guid(9a555ad292a390ae08098d5b2e66df8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57e91361b2a811f2f35a26c3dd5d6cb0') in 0.000786 seconds
+  Import took 0.004075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 138.042906 seconds.
+  path: Assets/Demo/Game Piece.prefab
+  artifactKey: Guid(272e9590697592f389d8b7ee3fd42ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demo/Game Piece.prefab using Guid(272e9590697592f389d8b7ee3fd42ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3ce2590fd8ad87e8fa26e712f9db0e') in 0.297141 seconds
+  Import took 0.300275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035484 seconds.
+  path: Assets/Demo/Game Piece.prefab
+  artifactKey: Guid(272e9590697592f389d8b7ee3fd42ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demo/Game Piece.prefab using Guid(272e9590697592f389d8b7ee3fd42ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf3ce2590fd8ad87e8fa26e712f9db0e') in 0.008441 seconds
+  Import took 0.011918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1853.390381 seconds.
+  path: Assets/Demo/arrow.png
+  artifactKey: Guid(122a69c2b7ca7ef90b41c4b7d9bd314c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demo/arrow.png using Guid(122a69c2b7ca7ef90b41c4b7d9bd314c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a1816df1b839749ec404cd8a0a24724') in 0.035764 seconds
+  Import took 0.040542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049886 seconds.
+  path: Assets/Demo/arrow.png
+  artifactKey: Guid(122a69c2b7ca7ef90b41c4b7d9bd314c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demo/arrow.png using Guid(122a69c2b7ca7ef90b41c4b7d9bd314c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a1816df1b839749ec404cd8a0a24724') in 0.007656 seconds
+  Import took 0.010939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 149.059955 seconds.
+  path: Assets/Demo/Materials
+  artifactKey: Guid(241fb1a73e6faa5719e77531d8e4f1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demo/Materials using Guid(241fb1a73e6faa5719e77531d8e4f1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f323e5897d31f2eed126855886b73824') in 0.001378 seconds
+  Import took 0.006301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056890 seconds.
+  path: Assets/Demo/Materials/arrow.mat
+  artifactKey: Guid(a8b7b90cf08fb1589a49381679c852de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demo/Materials/arrow.mat using Guid(a8b7b90cf08fb1589a49381679c852de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7716f88a86e0cc64a87612cbb4653b4') in 0.377278 seconds
+  Import took 0.383728 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38.0 MB.
+System memory in use after: 38.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2332.
+Total: 3.127389 ms (FindLiveObjects: 0.215717 ms CreateObjectMapping: 0.107431 ms MarkObjects: 2.725039 ms  DeleteObjects: 0.077340 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 358.783739 seconds.
+  path: Assets/Demo/arrow.png
+  artifactKey: Guid(122a69c2b7ca7ef90b41c4b7d9bd314c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demo/arrow.png using Guid(122a69c2b7ca7ef90b41c4b7d9bd314c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '980282c4f1ff66b0b49b39f41c01c27e') in 0.169481 seconds
+  Import took 0.173313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013777 seconds.
+  path: Assets/Demo/arrow.png
+  artifactKey: Guid(122a69c2b7ca7ef90b41c4b7d9bd314c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demo/arrow.png using Guid(122a69c2b7ca7ef90b41c4b7d9bd314c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '980282c4f1ff66b0b49b39f41c01c27e') in 0.011847 seconds
+  Import took 0.015339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 121.100736 seconds.
+  path: Assets/Demo/New Material.mat
+  artifactKey: Guid(eb2e564124ff676db8d95036fbbcefe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demo/New Material.mat using Guid(eb2e564124ff676db8d95036fbbcefe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fbf69a58ff47ead67f5a571ac1962f5') in 0.015696 seconds
+  Import took 0.020200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.892932 seconds.
+  path: Assets/ExampleAssets/Tutorial/Images/1-welcome-screen-image.png
+  artifactKey: Guid(a36153625af524c1f9fb6e04b5ed3e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Tutorial/Images/1-welcome-screen-image.png using Guid(a36153625af524c1f9fb6e04b5ed3e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '155753a16dff71909088257c9267dfd3') in 0.324394 seconds
+  Import took 0.331079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/ExampleAssets/Textures/PlanePatternDot.png
+  artifactKey: Guid(af6bcea09b8134831b6599e2900aef81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Textures/PlanePatternDot.png using Guid(af6bcea09b8134831b6599e2900aef81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a1ff3f4a4ee375ae8ae357b19886a2e') in 0.018365 seconds
+  Import took 0.025733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/ExampleAssets/Tutorial/Images/project-header-ar.png
+  artifactKey: Guid(36ba5f0e57d094b0c9364f801bc2bac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Tutorial/Images/project-header-ar.png using Guid(36ba5f0e57d094b0c9364f801bc2bac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '702aeec3e543e19e413e9d57d3b87d66') in 0.011252 seconds
+  Import took 0.016773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.834666 seconds.
+  path: Assets/Demo/New Material.mat
+  artifactKey: Guid(eb2e564124ff676db8d95036fbbcefe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Demo/New Material.mat using Guid(eb2e564124ff676db8d95036fbbcefe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cee12777254682b1ad9d801c9531b3bc') in 0.016139 seconds
+  Import took 0.019859 seconds .
+

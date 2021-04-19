@@ -1,0 +1,28 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1f5fc841df6dd9be580371ff1f80c566
+# Starting compiling UnityEngine.UI.dll
+/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6ba5c0514dc43201d87c4f652a65960d
+# Starting compiling Unity.Timeline.dll
+/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-892e65b5b9a2420bb8d99c845d8f64e1
+# Starting compiling Unity.TextMeshPro.dll
+/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7ab98e2f39709036cbfec276c53358e4
+# Starting compiling Unity.Subsystem.Registration.dll
+/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-88ca608f4891813d4995d43d23f8534b
+# Starting compiling UnityEngine.SpatialTracking.dll
+/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0d71a997e55fd5a68b28763d97bc33bc
+# Starting compiling Unity.XR.Management.dll
+/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8516eb2645f9cc7e797b55807add86d5
+# Starting compiling Unity.InteractiveTutorials.Core.Scripts.dll
+/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3f3cd4cc113d8ff46be36bae2234821f
+# Starting compiling Unity.XR.InteractionSubsystems.dll
+/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fa458d35e95613ad0a7bd218435cfa23
+# Starting compiling Unity.XR.ARSubsystems.dll
+/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2e29343a18e0f02f791357e1881dfb25
+# Starting compiling UnityEngine.XR.LegacyInputHelpers.dll
+/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fbd84dde28de52768b59f60dced20fc7
+# Starting compiling Unity.XR.ARCore.dll
+/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8bee005376c510d7aa6cd61d6ee0f0c2
+# Starting compiling Unity.XR.ARFoundation.dll
+/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1f0584e1b35ddd96cb01c36d3ec40128
+# Starting compiling Assembly-CSharp.dll
+/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-88b438ede6920795c896dff64074a8f6

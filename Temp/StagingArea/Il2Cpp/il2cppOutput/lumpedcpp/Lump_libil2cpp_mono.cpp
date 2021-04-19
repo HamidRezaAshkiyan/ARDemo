@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/il2cpp/libil2cpp/mono/MonoPosixHelper.cpp"
+#include "/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolMonitorThread.cpp"
+#include "/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/ThreadPoolWorkerThread.cpp"
+#include "/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io-poll.cpp"
+#include "/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms-io.cpp"
+#include "/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/il2cpp/libil2cpp/mono/ThreadPool/threadpool-ms.cpp"

@@ -9,6 +9,7 @@ using System;
 
 public class ARTapToPlaceObject : MonoBehaviour
 {
+    public GameObject objectToPlace;
     public GameObject placementIndicator;
     //private ARSessionOrigin arOrigin;
     private Pose PlacementPose;
@@ -25,6 +26,16 @@ public class ARTapToPlaceObject : MonoBehaviour
     {
         UpdatePlacementPose();
         UpdatePlacementIndicator();
+
+        if (placementPoseIsValid && Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began)
+        {
+            PlaceObject();
+        }
+    }
+
+    private void PlaceObject()
+    {
+        Instantiate(objectToPlace, PlacementPose.position, Quaternion.identity);
     }
 
     private void UpdatePlacementIndicator()
@@ -50,6 +61,10 @@ public class ARTapToPlaceObject : MonoBehaviour
         if (placementPoseIsValid)
         {
             PlacementPose = hits[0].pose;
+
+            // var cameraForward = Camera.current.transform.forward;
+            // var cameraBearing = new Vector3(cameraForward.x, 0, cameraForward.z).normalized;
+            // PlacementPose.rotation = Quanternion.LookRotation(cameraBearing);
         }
     }
 }

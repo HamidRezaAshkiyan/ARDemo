@@ -327,6 +327,7 @@ UnityEngine.Object::SetName
 UnityEngine.Object::set_hideFlags
 UnityEngine.Object::Internal_CloneSingle
 UnityEngine.Object::Internal_CloneSingleWithParent
+UnityEngine.Object::Internal_InstantiateSingle_Injected
 UnityEngine.Object::FindObjectsOfType
 UnityEngine.ParticleSystem::EmitOld_Internal
 UnityEngine.ParticleSystem::Emit_Injected

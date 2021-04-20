@@ -221,7 +221,7 @@ ScriptsOnlyBuild:
     className: SceneObjectGUIDComponent
   - hash:
       serializedVersion: 2
-      Hash: a25b2cdcbb5d72e046b7b95e7b811fa6
+      Hash: 2ac60b8c74c9938127f2cb09cd3acd9f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: ARTapToPlaceObject

@@ -1,4 +1,4 @@
-#Mon Apr 19 19:31:24 IRDT 2021
+#Tue Apr 20 12:44:34 IRDT 2021
 base.0=/home/mrsmile/Repos/ARDemo2/Temp/gradleOut/launcher/build/intermediates/dex/release/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

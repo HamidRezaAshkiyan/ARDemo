@@ -1569,10 +1569,10 @@ static const Il2CppTokenRangePair s_rgctxIndices[22] =
 };
 static const Il2CppRGCTXDefinition s_rgctxValues[39] = 
 {
-	{ (Il2CppRGCTXDataType)3, 10089 },
+	{ (Il2CppRGCTXDataType)3, 10091 },
+	{ (Il2CppRGCTXDataType)3, 10103 },
 	{ (Il2CppRGCTXDataType)3, 10101 },
-	{ (Il2CppRGCTXDataType)3, 10099 },
-	{ (Il2CppRGCTXDataType)3, 10111 },
+	{ (Il2CppRGCTXDataType)3, 10113 },
 	{ (Il2CppRGCTXDataType)3, 8241 },
 	{ (Il2CppRGCTXDataType)3, 8245 },
 	{ (Il2CppRGCTXDataType)3, 8243 },
@@ -1603,11 +1603,11 @@ static const Il2CppRGCTXDefinition s_rgctxValues[39] =
 	{ (Il2CppRGCTXDataType)3, 8189 },
 	{ (Il2CppRGCTXDataType)1, 20 },
 	{ (Il2CppRGCTXDataType)2, 20 },
-	{ (Il2CppRGCTXDataType)1, 156 },
-	{ (Il2CppRGCTXDataType)2, 156 },
-	{ (Il2CppRGCTXDataType)3, 10112 },
 	{ (Il2CppRGCTXDataType)1, 157 },
-	{ (Il2CppRGCTXDataType)1, 159 },
+	{ (Il2CppRGCTXDataType)2, 157 },
+	{ (Il2CppRGCTXDataType)3, 10114 },
+	{ (Il2CppRGCTXDataType)1, 158 },
+	{ (Il2CppRGCTXDataType)1, 160 },
 };
 extern const CustomAttributesCacheGenerator g_UnityEngine_AndroidJNIModule_AttributeGenerators[];
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_UnityEngine_AndroidJNIModule_CodeGenModule;

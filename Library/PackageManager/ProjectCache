@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637544363740000000
-    m_Hash: 3185827876
+      ticks: 637544591300000000
+    m_Hash: 1385715340
   m_LockFileStatus:
     m_FilePath: /home/mrsmile/Repos/ARDemo2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637544363750000000
-    m_Hash: 1781906445
+      ticks: 637544591310000000
+    m_Hash: 1739116357
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -190,7 +190,7 @@ m_PackageAssets:
         version: 1.1.1
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.22
+        version: 1.1.24
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -271,7 +271,7 @@ m_PackageAssets:
         version: 1.1.9
       resolvedDependencies:
       - name: com.unity.test-framework
-        version: 1.1.22
+        version: 1.1.24
       - name: com.unity.ext.nunit
         version: 1.0.6
       - name: com.unity.modules.imgui
@@ -496,12 +496,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/iet-package.git
         revision: d8844989d65f92c6dede187e8149d129ac4f6a41
         path: 
-    - packageId: com.unity.test-framework@1.1.22
+    - packageId: com.unity.test-framework@1.1.24
       testable: 0
       isDirectDependency: 1
-      version: 1.1.22
+      version: 1.1.24
       source: 1
-      resolvedPath: /home/mrsmile/Repos/ARDemo2/Library/PackageCache/com.unity.test-framework@1.1.22
+      resolvedPath: /home/mrsmile/Repos/ARDemo2/Library/PackageCache/com.unity.test-framework@1.1.24
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -577,20 +577,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637469345300000000
+      datePublishedTicks: 637505702940000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
-        revision: 56c667cbc326a1cbab8dfd7ebc693a1121d0abe1
+        revision: e6fe8892689398c0d9aba4587e0ba69edc3d82b8
         path: 
-    - packageId: com.unity.textmeshpro@3.0.4
+    - packageId: com.unity.textmeshpro@3.0.5
       testable: 0
       isDirectDependency: 1
-      version: 3.0.4
+      version: 3.0.5
       source: 1
-      resolvedPath: /home/mrsmile/Repos/ARDemo2/Library/PackageCache/com.unity.textmeshpro@3.0.4
+      resolvedPath: /home/mrsmile/Repos/ARDemo2/Library/PackageCache/com.unity.textmeshpro@3.0.5
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -732,20 +732,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637492944820000000
+      datePublishedTicks: 637541111970000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
-        revision: e2f8dffb26de9a130d5b2140d83891d9a7825330
+        revision: 27767feb0ebd7fad716ffa068a54a7c3b9dd631a
         path: 
-    - packageId: com.unity.timeline@1.4.6
+    - packageId: com.unity.timeline@1.4.7
       testable: 0
       isDirectDependency: 1
-      version: 1.4.6
+      version: 1.4.7
       source: 1
-      resolvedPath: /home/mrsmile/Repos/ARDemo2/Library/PackageCache/com.unity.timeline@1.4.6
+      resolvedPath: /home/mrsmile/Repos/ARDemo2/Library/PackageCache/com.unity.timeline@1.4.7
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -872,13 +872,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637463150940000000
+      datePublishedTicks: 637516874380000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.timeline.git
-        revision: 2fe55e5d14362cc4fdcc886f56dbfe518298e4a5
+        revision: 66f96ddbbc76f565093e1e5e5d3d322d28acc7d7
         path: 
     - packageId: com.unity.toolchain.linux-x86_64@0.1.18-preview
       testable: 0

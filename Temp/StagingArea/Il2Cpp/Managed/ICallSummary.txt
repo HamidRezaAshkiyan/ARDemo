@@ -187,9 +187,11 @@ UnityEngine.Camera::AddCommandBufferImpl
 UnityEngine.Camera::RemoveCommandBufferImpl
 UnityEngine.Camera::ResetProjectionMatrix
 UnityEngine.Camera::ScreenPointToRay_Injected
+UnityEngine.Camera::ViewportToScreenPoint_Injected
 UnityEngine.Camera::get_pixelRect_Injected
 UnityEngine.Camera::set_clearFlags
 UnityEngine.Camera::set_projectionMatrix_Injected
+UnityEngine.Camera::get_current
 UnityEngine.Camera::get_clearFlags
 UnityEngine.Camera::get_targetTexture
 UnityEngine.CameraRaycastHelper::RaycastTry2D_Injected
@@ -425,6 +427,7 @@ UnityEngine.Transform::get_childCount
 UnityEngine.Transform::InverseTransformDirection_Injected
 UnityEngine.Transform::InverseTransformPoint_Injected
 UnityEngine.Transform::SetParent
+UnityEngine.Transform::SetPositionAndRotation_Injected
 UnityEngine.Transform::TransformDirection_Injected
 UnityEngine.Transform::TransformPoint_Injected
 UnityEngine.Transform::get_localPosition_Injected

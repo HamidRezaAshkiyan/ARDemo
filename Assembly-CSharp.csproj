@@ -47,6 +47,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Demo\ARTapToPlaceObject.cs" />
      <Compile Include="Assets\ExampleAssets\Scripts\AnchorCreator.cs" />
      <Compile Include="Assets\ExampleAssets\Scripts\ARFeatheredPlaneMeshVisualizer.cs" />
      <None Include="Assets\ExampleAssets\Shaders\FeatheredPlaneShader.shader" />

@@ -113,7 +113,7 @@
 64-->/home/mrsmile/Repos/ARDemo2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:5-101
 65            android:name="unity.build-id"
 65-->/home/mrsmile/Repos/ARDemo2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:16-45
-66            android:value="97b9823d-561e-43a0-8a81-195b14c95434" />
+66            android:value="5012fbaa-0b39-4faf-adaa-d420cc88f138" />
 66-->/home/mrsmile/Repos/ARDemo2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:46-98
 67        <meta-data
 67-->/home/mrsmile/Repos/ARDemo2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:5-88

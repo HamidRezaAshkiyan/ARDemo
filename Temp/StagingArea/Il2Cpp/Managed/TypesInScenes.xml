@@ -42,6 +42,7 @@
 	</assembly>
 	<assembly fullname="Assembly-CSharp">
 		<type fullname="ARFeatheredPlaneMeshVisualizer" preserve="nothing"/>
+		<type fullname="ARTapToPlaceObject" preserve="nothing"/>
 		<type fullname="AnchorCreator" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.XR.ARCore">

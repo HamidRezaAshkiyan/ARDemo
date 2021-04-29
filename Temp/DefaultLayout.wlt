@@ -400,7 +400,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/UTech/MG-Karting
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /home/mrsmile/Repos/ARDemo2
+  m_LastProjectPath: /media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:

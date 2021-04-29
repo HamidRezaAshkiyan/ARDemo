@@ -21,11 +21,15 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.ARFoundation.ARRaycastManager
     - UnityEngine.XR.ARFoundation.ARSession
     - UnityEngine.XR.ARFoundation.ARSessionOrigin
+    Unity.XR.ARKit.Editor.dll:
+    - UnityEditor.XR.ARKit.ARKitSettings
     Unity.XR.Management.Editor.dll:
     - UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget
     Unity.XR.Management.dll:
     - UnityEngine.XR.Management.XRGeneralSettings
     - UnityEngine.XR.Management.XRManagerSettings
+    Unity.XR.WindowsMixedReality.Editor.dll:
+    - UnityEditor.XR.WindowsMR.WindowsMRPackageSettings
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -67,7 +71,7 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1502}
+      Script: {instanceID: 1504}
     - Class: 114
       Script: {instanceID: 1554}
     - Class: 114
@@ -930,4 +934,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/ExampleAssets/Scenes/SampleScene.unity
-  playerPath: /home/mrsmile/Repos/ARDemo2/Builds/Android.apk
+  playerPath: /media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Builds/AR Demo.apk

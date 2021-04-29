@@ -17,41 +17,41 @@
       "DebugActionIndex": 0
     },
     {
-      "Annotation": "Il2Cpp /home/mrsmile/Repos/ARDemo2/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so",
-      "Action": "\"/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/il2cpp/build/deploy/netcoreapp3.1/il2cpp\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Android\" --architecture=\"ARMv7\" --configuration=\"Release\" --outputpath=\"/home/mrsmile/Repos/ARDemo2/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so\" --cachedirectory=\"/home/mrsmile/Repos/ARDemo2/Assets/../Library/il2cpp_android_armeabi-v7a/il2cpp_cache\" --additional-include-directories=\"/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/bdwgc/include\" --additional-include-directories=\"/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/libil2cpp/include\" --baselib-directory=\"/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a\" --avoid-dynamic-library-copy --tool-chain-path=\"/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK\" --profiler-report --map-file-parser=\"/media/mrsmile/Data1/Backup/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/MapFileParser/MapFileParser\" --directory=\"/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed\" --generatedcppdir=\"/home/mrsmile/Repos/ARDemo2/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput\"",
+      "Annotation": "Il2Cpp /media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so",
+      "Action": "\"/media/mrsmile/Windows 10 x64/Ubuntu/Unity/Hub/Editor/2020.3.0f1/Editor/Data/il2cpp/build/deploy/netcoreapp3.1/il2cpp\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Android\" --architecture=\"ARMv7\" --configuration=\"Release\" --outputpath=\"/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so\" --cachedirectory=\"/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Assets/../Library/il2cpp_android_armeabi-v7a/il2cpp_cache\" --additional-include-directories=\"/media/mrsmile/Windows 10 x64/Ubuntu/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/bdwgc/include\" --additional-include-directories=\"/media/mrsmile/Windows 10 x64/Ubuntu/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/libil2cpp/include\" --baselib-directory=\"/media/mrsmile/Windows 10 x64/Ubuntu/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a\" --avoid-dynamic-library-copy --tool-chain-path=\"/media/mrsmile/Windows 10 x64/Ubuntu/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK\" --profiler-report --map-file-parser=\"/media/mrsmile/Windows 10 x64/Ubuntu/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Tools/MapFileParser/MapFileParser\" --directory=\"/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed\" --generatedcppdir=\"/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput\"",
       "Inputs": [
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.ARCore.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.ARFoundation.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.ARSubsystems.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.Management.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ARModule.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputModule.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpatialTracking.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SubsystemsModule.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.XRModule.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
-        "/home/mrsmile/Repos/ARDemo2/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll"
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.ARCore.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.ARFoundation.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.ARSubsystems.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.Management.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ARModule.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputModule.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpatialTracking.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.XRModule.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll"
       ],
       "Outputs": [
-        "/home/mrsmile/Repos/ARDemo2/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so"
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so"
       ],
       "TargetDirectories": [
-        "/home/mrsmile/Repos/ARDemo2/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput"
+        "/media/mrsmile/Windows 10 x64/Ubuntu/Repos/AR Demo/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput"
       ],
       "PassIndex": 0,
       "Deps": [],
@@ -64,7 +64,7 @@
   ],
   "FileSignatures": [
     {
-      "File": "../../../../../../Library"
+      "File": "../../../../../../../../../../home/mrsmile/Library"
     },
     {
       "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
